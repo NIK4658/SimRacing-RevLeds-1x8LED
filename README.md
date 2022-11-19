@@ -16,9 +16,15 @@
 
 ## **PROJECT DESCRIPTION:**
 
-[Text Description]
+This project is a **DIY hardware project** and it's an *Engine Rev Indicator* used for **SimRacing**, an (1x8) RGB LED strip that lights up **according to the revs of the car's engine** in the simulator.
 
-[//]: # (Optional: year quarter month period)
+The *purpose* of this project is to **improve immersion** while playing *Racing games*.
+
+The necessary components are few and they are **really cheap**.
+
+**No line of code is needed**, as the integration is **handled automatically** by a third party software called *[SimHub](https://www.simhubdash.com/)*.
+
+**In addition** to the LED strip container there is a **case for an Arduino Nano** available for *download*.
 
 
 <p class="Project Presentation Image" align="center">
@@ -26,10 +32,10 @@
 </p>
 
 ### **Features**
-- 
-- 
-- 
-
+- Lighting of the LEDs *relating* to the **engine rev** in a precise manner and **without delay**.
+- 100% customizable *colors and range*.
+- **Flashing lights** when *redline* is reached *(Optional)*
+- **Compatible with all Racing games** thanks to [SimHub](https://www.simhubdash.com/).
 
 ## **Ratings**
 
@@ -55,7 +61,11 @@
   <img align="center" src="./src/images/sampleImage.png" width="1000">
 </p>
 
-[//]: # (One or two images that contains multiple view of one or many 3D models)
+---
+
+### **3D MODEL FILES:**
+
+**All** 3D models files are **available for free** and *can be found in the repository.*
 
 [//]: # (Do you want to have it printed? Click Here.)
 
@@ -64,26 +74,28 @@
 [//]: # (if necessary)
 
 <p class="Electrical Diagram Image" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/Wiring%20Diagram/Wiring diagram.png" width="800">
 </p>
 
 **Hardware components:**
-- 1 x Component_1
-- 2 x Component_2
-- 3 x Component_3
+- 1 x Arduino Nano (or Generic Arduino)
+- 1 x (1x8) RGB LED Strip WS2812B (5V)
+- 1 x 3D Printed Led Strip Case *(Optional)*
+- 1 x 3D Printed Arduino Nano Case *(Optional)*
 
 **Necessary tools:**
-- Tool_1
-- Tool_2
-- Tool_3
+- Soldering Iron
+- 3D Printer *(Optional)*
 
 ### **How to assemble it**
 
-1. Phase 1
-2. Phase 2
-3. Phase 3
-4. Phase 4
-5. Phase 5
+1. Connect the **VCC** and **GND** pins of the arduino to the *respective pins on the led strip*.
+2. Connect the **DIN** pin of the LED strip to **pin 6** of the Arduino board.
+3. **Insert** the led strip in the *3D printed case* and close it.
+4. **Insert** the Arduino in the *3D printed case* and close it.
+5. Connect Arduino to the PC via USB cable.
+6. Install the **latest version** of *[SimHub](https://www.simhubdash.com/)*.
+7. *Setup the Gear Indicator Display Via [SimHub](https://www.simhubdash.com/)*.
 
 ---
 
