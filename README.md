@@ -74,7 +74,7 @@ The necessary components are few and they are **really cheap**.
 [//]: # (if necessary)
 
 <p class="Electrical Diagram Image" align="center">
-  <img align="center" src="./src/images/Wiring%20Diagram/Wiring diagram.png" width="800">
+  <img align="center" src="./src/images/Wiring%20Diagram/Wiring Diagram.png" width="800">
 </p>
 
 **Hardware components:**
