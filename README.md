@@ -55,10 +55,18 @@ The necessary components are few and they are **really cheap**.
 ---
 
 ## **3D MODELS IMAGES** 
-[//]: # (if necessary)
 
+### **REV LEDS**
 <p class="3D MODELS IMAGES" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/3D%20Models/RevLeds/Front.png" width="260">
+  <img align="center" src="./src/images/3D%20Models/RevLeds/Back.png" width="260">
+  <img align="center" src="./src/images/3D%20Models/RevLeds/Cover.png" width="260">
+</p>
+
+### **ARDUINO CASE**
+<p class="3D MODELS IMAGES" align="center">
+  <img align="center" src="./src/images/3D%20Models/ArduinoCase/ArduinoCase.png" width="400">
+  <img align="center" src="./src/images/3D%20Models/ArduinoCase/ArduinoCaseBack.png" width="400">
 </p>
 
 ---
