@@ -28,7 +28,7 @@ The necessary components are few and they are **really cheap**.
 
 
 <p class="Project Presentation Image" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/Renders/MainRender.png" width="1000">
 </p>
 
 ### **Features**
@@ -109,14 +109,16 @@ The necessary components are few and they are **really cheap**.
 
 ## **GALLERY:**
 
-### **RENDER**
+### **RENDERS**
 
 <p class="Single Image Render" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/Renders/MainRender.png" width="1000">
 </p>
 
-## **IRL (Project Completed)**
-
-<p class="Multiple IRL Images" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+<p class="Double Image Render" align="center">
+  <img align="center" src="./src/images/Renders/Render2.png" width="400">
+  <img align="center" src="./src/images/Renders/Render3.png" width="400">
 </p>
+
+
+[//]: # (**IRL Project Completed**)
