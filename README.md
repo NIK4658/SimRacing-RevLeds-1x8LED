@@ -26,6 +26,8 @@ The necessary components are few and they are **really cheap**.
 
 **In addition** to the LED strip container there is a **case for an Arduino Nano** available for *download*.
 
+Check the other version: ([1x16](https://github.com/NIK4658/SimRacing-RevLeds-1x16LED)).
+
 
 <p class="Project Presentation Image" align="center">
   <img align="center" src="./src/images/Renders/MainRender.png" width="1000">
@@ -103,7 +105,7 @@ The necessary components are few and they are **really cheap**.
 4. **Insert** the Arduino in the *3D printed case* and close it.
 5. Connect Arduino to the PC via USB cable.
 6. Install the **latest version** of *[SimHub](https://www.simhubdash.com/)*.
-7. *Setup the Gear Indicator Display Via [SimHub](https://www.simhubdash.com/)*.
+7. *Setup the RevLeds Via [SimHub](https://www.simhubdash.com/)*.
 
 ---
 
